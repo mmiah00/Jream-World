@@ -5063,7 +5063,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"..\/workadventure-test2\/tilesets\/WA_Special_Zones.png",
+         "image":"tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -5086,7 +5086,7 @@
         {
          "columns":12,
          "firstgid":13,
-         "image":"..\/workadventure-test2\/tilesets\/WA_Decoration.png",
+         "image":"tilesets\/WA_Decoration.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -5099,7 +5099,7 @@
         {
          "columns":10,
          "firstgid":109,
-         "image":"..\/workadventure-test2\/tilesets\/WA_Miscellaneous.png",
+         "image":"tilesets\/WA_Miscellaneous.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -5112,7 +5112,7 @@
         {
          "columns":12,
          "firstgid":219,
-         "image":"..\/workadventure-test2\/tilesets\/WA_Other_Furniture.png",
+         "image":"tilesets\/WA_Other_Furniture.png",
          "imageheight":416,
          "imagewidth":384,
          "margin":0,
@@ -5125,7 +5125,7 @@
         {
          "columns":25,
          "firstgid":375,
-         "image":"..\/workadventure-test2\/tilesets\/WA_Room_Builder.png",
+         "image":"tilesets\/WA_Room_Builder.png",
          "imageheight":1280,
          "imagewidth":800,
          "margin":0,
@@ -5138,7 +5138,7 @@
         {
          "columns":13,
          "firstgid":1375,
-         "image":"..\/workadventure-test2\/tilesets\/WA_Seats.png",
+         "image":"tilesets\/WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,
@@ -5151,7 +5151,7 @@
         {
          "columns":10,
          "firstgid":1557,
-         "image":"..\/workadventure-test2\/tilesets\/WA_Tables.png",
+         "image":"tilesets\/WA_Tables.png",
          "imageheight":864,
          "imagewidth":320,
          "margin":0,
@@ -5164,7 +5164,7 @@
         {
          "columns":6,
          "firstgid":1827,
-         "image":"..\/workadventure-test2\/tilesets\/WA_Logo_Long.png",
+         "image":"tilesets\/WA_Logo_Long.png",
          "imageheight":32,
          "imagewidth":192,
          "margin":0,
@@ -5177,7 +5177,7 @@
         {
          "columns":25,
          "firstgid":1833,
-         "image":"..\/workadventure-test2\/tilesets\/WA_Exterior.png",
+         "image":"tilesets\/WA_Exterior.png",
          "imageheight":1088,
          "imagewidth":800,
          "margin":0,
@@ -5190,7 +5190,7 @@
         {
          "columns":13,
          "firstgid":2683,
-         "image":"..\/workadventure-test2\/tilesets\/WA_User_Interface.png",
+         "image":"tilesets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
@@ -5214,32 +5214,273 @@
          "tilewidth":32
         }, 
         {
+         "columns":0,
          "firstgid":3020,
-         "source":"..\/workadventure-test2\/park.tsx"
+         "grid":
+            {
+             "height":1,
+             "orientation":"orthogonal",
+             "width":1
+            },
+         "margin":0,
+         "name":"park",
+         "spacing":0,
+         "tilecount":16,
+         "tileheight":190,
+         "tiles":[
+                {
+                 "id":96,
+                 "image":"..\/..\/..\/Downloads\/Free Park Zone Tileset\/3 Objects\/Other\/Box.png",
+                 "imageheight":25,
+                 "imagewidth":32
+                }, 
+                {
+                 "id":97,
+                 "image":"..\/..\/..\/Downloads\/Free Park Zone Tileset\/3 Objects\/Other\/Garbage_Can1.png",
+                 "imageheight":13,
+                 "imagewidth":15
+                }, 
+                {
+                 "id":98,
+                 "image":"..\/..\/..\/Downloads\/Free Park Zone Tileset\/3 Objects\/Other\/Garbage_Can2.png",
+                 "imageheight":13,
+                 "imagewidth":15
+                }, 
+                {
+                 "id":99,
+                 "image":"..\/..\/..\/Downloads\/Free Park Zone Tileset\/3 Objects\/Other\/Ladder1.png",
+                 "imageheight":32,
+                 "imagewidth":23
+                }, 
+                {
+                 "id":100,
+                 "image":"..\/..\/..\/Downloads\/Free Park Zone Tileset\/3 Objects\/Other\/Ladder2.png",
+                 "imageheight":32,
+                 "imagewidth":23
+                }, 
+                {
+                 "id":101,
+                 "image":"..\/..\/..\/Downloads\/Free Park Zone Tileset\/3 Objects\/Other\/Ramp1.png",
+                 "imageheight":48,
+                 "imagewidth":92
+                }, 
+                {
+                 "id":102,
+                 "image":"..\/..\/..\/Downloads\/Free Park Zone Tileset\/3 Objects\/Other\/Ramp2.png",
+                 "imageheight":48,
+                 "imagewidth":92
+                }, 
+                {
+                 "id":103,
+                 "image":"..\/..\/..\/Downloads\/Free Park Zone Tileset\/3 Objects\/Other\/Rapm3.png",
+                 "imageheight":39,
+                 "imagewidth":144
+                }, 
+                {
+                 "id":104,
+                 "image":"..\/..\/..\/Downloads\/Free Park Zone Tileset\/3 Objects\/Other\/Skateboard1.png",
+                 "imageheight":7,
+                 "imagewidth":26
+                }, 
+                {
+                 "id":105,
+                 "image":"..\/..\/..\/Downloads\/Free Park Zone Tileset\/3 Objects\/Other\/Skateboard2.png",
+                 "imageheight":20,
+                 "imagewidth":11
+                }, 
+                {
+                 "id":106,
+                 "image":"..\/..\/..\/Downloads\/Free Park Zone Tileset\/3 Objects\/Other\/Skateboard3.png",
+                 "imageheight":20,
+                 "imagewidth":10
+                }, 
+                {
+                 "id":107,
+                 "image":"..\/..\/..\/Downloads\/Free Park Zone Tileset\/3 Objects\/Other\/Skateboard4.png",
+                 "imageheight":20,
+                 "imagewidth":12
+                }, 
+                {
+                 "id":108,
+                 "image":"..\/..\/..\/Downloads\/Free Park Zone Tileset\/3 Objects\/Other\/Tree1.png",
+                 "imageheight":103,
+                 "imagewidth":62
+                }, 
+                {
+                 "id":109,
+                 "image":"..\/..\/..\/Downloads\/Free Park Zone Tileset\/3 Objects\/Other\/Tree2.png",
+                 "imageheight":129,
+                 "imagewidth":124
+                }, 
+                {
+                 "id":110,
+                 "image":"..\/..\/..\/Downloads\/Free Park Zone Tileset\/3 Objects\/Other\/Tree3.png",
+                 "imageheight":190,
+                 "imagewidth":175
+                }, 
+                {
+                 "id":111,
+                 "image":"..\/..\/..\/Downloads\/Free Park Zone Tileset\/3 Objects\/Other\/Tree4.png",
+                 "imageheight":190,
+                 "imagewidth":175
+                }],
+         "tilewidth":175
         }, 
         {
+         "columns":13,
          "firstgid":3132,
-         "source":"WA_Seats.tsx"
+         "image":"tilesets\/WA_Seats.png",
+         "imageheight":448,
+         "imagewidth":416,
+         "margin":0,
+         "name":"WA_Seats",
+         "spacing":0,
+         "tilecount":182,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":25,
          "firstgid":3314,
-         "source":"WA_Room_Builder.tsx"
+         "image":"tilesets\/WA_Room_Builder.png",
+         "imageheight":1280,
+         "imagewidth":800,
+         "margin":0,
+         "name":"WA_Room_Builder",
+         "spacing":0,
+         "tilecount":1000,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":13,
          "firstgid":4314,
-         "source":"WA_User_Interface.tsx"
+         "image":"tilesets\/WA_User_Interface.png",
+         "imageheight":672,
+         "imagewidth":416,
+         "margin":0,
+         "name":"WA_User_Interface",
+         "spacing":0,
+         "tilecount":273,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":10,
          "firstgid":4587,
-         "source":"WA_Tables.tsx"
+         "image":"tilesets\/WA_Tables.png",
+         "imageheight":864,
+         "imagewidth":320,
+         "margin":0,
+         "name":"WA_Tables",
+         "spacing":0,
+         "tilecount":270,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":12,
          "firstgid":4857,
-         "source":"WA_Decoration.tsx"
+         "image":"tilesets\/WA_Decoration.png",
+         "imageheight":256,
+         "imagewidth":384,
+         "margin":0,
+         "name":"WA_Decoration",
+         "spacing":0,
+         "tilecount":96,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":12,
          "firstgid":4953,
-         "source":"WA_Other_Furniture.tsx"
+         "image":"tilesets\/WA_Other_Furniture.png",
+         "imageheight":416,
+         "imagewidth":384,
+         "margin":0,
+         "name":"WA_Other_Furniture",
+         "spacing":0,
+         "tilecount":156,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":12,
+         "firstgid":5109,
+         "image":"tilesets\/WA_Decoration.png",
+         "imageheight":256,
+         "imagewidth":384,
+         "margin":0,
+         "name":"WA_Decoration",
+         "spacing":0,
+         "tilecount":96,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":12,
+         "firstgid":5205,
+         "image":"tilesets\/WA_Other_Furniture.png",
+         "imageheight":416,
+         "imagewidth":384,
+         "margin":0,
+         "name":"WA_Other_Furniture",
+         "spacing":0,
+         "tilecount":156,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":25,
+         "firstgid":5361,
+         "image":"tilesets\/WA_Room_Builder.png",
+         "imageheight":1280,
+         "imagewidth":800,
+         "margin":0,
+         "name":"WA_Room_Builder",
+         "spacing":0,
+         "tilecount":1000,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":13,
+         "firstgid":6361,
+         "image":"tilesets\/WA_Seats.png",
+         "imageheight":448,
+         "imagewidth":416,
+         "margin":0,
+         "name":"WA_Seats",
+         "spacing":0,
+         "tilecount":182,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":10,
+         "firstgid":6543,
+         "image":"tilesets\/WA_Tables.png",
+         "imageheight":864,
+         "imagewidth":320,
+         "margin":0,
+         "name":"WA_Tables",
+         "spacing":0,
+         "tilecount":270,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":13,
+         "firstgid":6813,
+         "image":"tilesets\/WA_User_Interface.png",
+         "imageheight":672,
+         "imagewidth":416,
+         "margin":0,
+         "name":"WA_User_Interface",
+         "spacing":0,
+         "tilecount":273,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
