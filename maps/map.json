@@ -5063,7 +5063,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"..\/..\/workadventure-test2\/tilesets\/WA_Special_Zones.png",
+         "image":"..\/..\/Jream-World\/tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -5086,7 +5086,7 @@
         {
          "columns":12,
          "firstgid":13,
-         "image":"..\/..\/workadventure-test2\/tilesets\/WA_Decoration.png",
+         "image":"..\/..\/Jream-World\/tilesets\/WA_Decoration.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -5099,7 +5099,7 @@
         {
          "columns":10,
          "firstgid":109,
-         "image":"..\/..\/workadventure-test2\/tilesets\/WA_Miscellaneous.png",
+         "image":"..\/..\/Jream-World\/tilesets\/WA_Miscellaneous.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -5112,7 +5112,7 @@
         {
          "columns":12,
          "firstgid":219,
-         "image":"..\/..\/workadventure-test2\/tilesets\/WA_Other_Furniture.png",
+         "image":"..\/..\/Jream-World\/tilesets\/WA_Other_Furniture.png",
          "imageheight":416,
          "imagewidth":384,
          "margin":0,
@@ -5125,7 +5125,7 @@
         {
          "columns":25,
          "firstgid":375,
-         "image":"..\/..\/workadventure-test2\/tilesets\/WA_Room_Builder.png",
+         "image":"..\/..\/Jream-World\/tilesets\/WA_Room_Builder.png",
          "imageheight":1280,
          "imagewidth":800,
          "margin":0,
@@ -5138,7 +5138,7 @@
         {
          "columns":13,
          "firstgid":1375,
-         "image":"..\/..\/workadventure-test2\/tilesets\/WA_Seats.png",
+         "image":"..\/..\/Jream-World\/tilesets\/WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,
@@ -5151,7 +5151,7 @@
         {
          "columns":10,
          "firstgid":1557,
-         "image":"..\/..\/workadventure-test2\/tilesets\/WA_Tables.png",
+         "image":"..\/..\/Jream-World\/tilesets\/WA_Tables.png",
          "imageheight":864,
          "imagewidth":320,
          "margin":0,
@@ -5164,7 +5164,7 @@
         {
          "columns":6,
          "firstgid":1827,
-         "image":"..\/..\/workadventure-test2\/tilesets\/WA_Logo_Long.png",
+         "image":"..\/..\/Jream-World\/tilesets\/WA_Logo_Long.png",
          "imageheight":32,
          "imagewidth":192,
          "margin":0,
@@ -5177,7 +5177,7 @@
         {
          "columns":25,
          "firstgid":1833,
-         "image":"..\/..\/workadventure-test2\/tilesets\/WA_Exterior.png",
+         "image":"..\/..\/Jream-World\/tilesets\/WA_Exterior.png",
          "imageheight":1088,
          "imagewidth":800,
          "margin":0,
@@ -5190,7 +5190,7 @@
         {
          "columns":13,
          "firstgid":2683,
-         "image":"..\/..\/workadventure-test2\/tilesets\/WA_User_Interface.png",
+         "image":"..\/..\/Jream-World\/tilesets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
@@ -5215,7 +5215,7 @@
         }, 
         {
          "firstgid":3020,
-         "source":"..\/..\/workadventure-test2\/park.tsx"
+         "source":"..\/..\/Jream-World\/park.tsx"
         }, 
         {
          "firstgid":3132,
